@@ -1,45 +1,77 @@
-# 👋 Hi, I'm Hussain  
+👋 Hi, I'm Hussain Ali
+Data Engineering Aspirant | Python & SQL Specialist | Automation Enthusiast
 
-**Developer & Data Enthusiast | Python • Pandas • Excel • PostgreSQL • C | Building Pipelines • Exploring AI | Future Data Engineer 🚀**
+I am a results-driven developer and 2nd-year ICS student at Punjab College, Bhakkar, with a focus on building scalable data architectures and automated workflows. My expertise lies in bridging the gap between raw data and actionable insights through robust ETL pipelines and interactive dashboards.  
++2
 
----
+🛠️ Technical Ecosystem
+Area	Technologies
+Languages	Python, SQL, C
+Data Engineering	
+ETL Pipeline Design, Multi-threaded Processing, Fuzzy Logic Matching  
++2
 
-## 🔧 Skills
-- **Programming:** Python, C  
-- **Data Handling:** Pandas, Excel  
-- **Databases:** PostgreSQL, SQL, pgAdmin  
-- **Data Engineering:** Starting to build pipelines, workflow automation  
-- **AI/ML:** Can apply AI tools and concepts  
+Databases	
+PostgreSQL, Neon Cloud, pgAdmin, DBeaver  
 
----
+Analytics & UI	
+Pandas, NiceGUI, Streamlit, Plotly 
 
-## 📖 About Me
-- 🎓 2nd Year ICS Student at **Punjab College**, Bhakkar  
-- 🎯 Future student at **Air University**  
-- 💡 Passionate about **data engineering** and scalable solutions  
-- 🌱 Currently learning advanced SQL, pipeline creation, and AI integration  
+Hardware/DevOps	VS Code, Windows 11 (Smart App Control Management), Lenovo ThinkBook 15 G3 ACL
+🚀 Featured Engineering Projects
+🏗️ Avalon Enterprise Data Pipeline
+A high-performance, multi-threaded ETL system built to handle complex data synchronization.  
++1
 
----
+Intelligent Extraction: Uses thefuzz with a 75% matching threshold to automatically correct and map inconsistent CSV/Excel headers.  
++1
 
-## 📊 Projects & Practice
-- **Employee Management Database** — PostgreSQL schema with employees, jobs, ratings, and advanced queries  
-- **School Management System** — Students, teachers, classes, subjects, marks, and fees with reporting views  
-- **Construction Dashboard** — Project progress, costs, and resource utilization across multiple sites  
-- **Transporter Dashboard** — Supplier trips, material deliveries, and logistics summaries  
-- **Store & Sales Dashboards** — Inventory tracking, issuance logs, and customer/product sales analytics  
+Concurrency: Implements a Watcher-Worker architecture with parallel threading to process multiple data streams simultaneously without bottlenecks.  
++1
 
----
+Security & Reliability: Configured for Neon Cloud PostgreSQL with SSL binding and a 3-attempt exponential back-off retry logic.  
++2
 
-## 🚀 Goals
-- Master **data engineering pipelines** and ETL workflows  
-- Advance into **Data Science** with machine learning and AI  
-- Build portfolio-ready dashboards and interactive apps  
-- Contribute to open-source projects and collaborate globally  
+Automated Alerts: Features a dedicated Telegram Bot integration for real-time status updates on data discovery and processing.  
 
----
+📊 Interactive Analytics Dashboards
+Custom-built visualization suites designed for high-speed data exploration.  
 
-## 📬 Contact
-- GitHub: [https://github.com/HussainAli-Ds]  
-- Email: [ha780383@gmail.com]
-- Phone: [03357897412]
-- Phone: [03318782469]
+Performance First: Utilizes a 90-second TTL caching system to ensure near-instant load times for large datasets.  
+
+Deep Insights: Tracks material logistics, construction costs, and employee performance metrics using Plotly and NiceGUI.  
+
+🗄️ Database Architecture Suite
+School Management System: A comprehensive relational schema managing students, faculty, and fee structures with automated reporting views.
+
+Employee Management System: Advanced PostgreSQL implementation featuring complex queries for performance ratings and job hierarchy.
+
+📖 Academic & Career Journey
+🎓 Current: 12th Grade (ICS) at Punjab College, Bhakkar.
+
+🏆 Achievement: Scored 1034 marks in Matric and 484 marks in 11th grade (Intermediate Part-1).
+
+🎯 Future: Relocating to Islamabad to pursue a BS in Data Science at Air University.
+
+🌱 Learning: Advanced SQL optimization, machine learning integration, and open-source collaboration.
+
+⚡ Beyond the Code
+🧠 Interests: Enthusiast of "Smart MC" anime featuring strategic and genius protagonists.
+
+🏎️ Gaming: I am a Good Gamer.
+
+🏍️ Garage: Maintaining and optimizing my Honda CB 125F.
+
+💪 Exercise: I also have six packs👀.
+
+📫 Let's Connect
+Email: ha780383@gmail.com
+
+  
+
+Phone: 0335-7897412 | 0331-8782469  
+
+GitHub: HussainAli-Ds
+
+📊 GitHub Activity
+"I don't just process data; I build the roads it travels on."
