@@ -48,7 +48,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏗️ Avalon Enterprise Data Pipeline
+### 🏗️ -Transporter-Equipment-Pipeline
 > High-performance, multi-threaded ETL system
 
 - 🔍 Intelligent schema mapping using **fuzzy matching**
@@ -111,7 +111,8 @@
 
 - Advanced SQL Optimization  
 - Machine Learning Integration  
-- Open Source Collaboration  
+- Open Source Collaboration
+- Use of Ai
 
 ---
 
