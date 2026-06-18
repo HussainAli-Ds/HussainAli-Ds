@@ -14,7 +14,7 @@
 ⚡ Focused on **performance, concurrency, and real-world engineering**
 
 🎓 ICS Student (Punjab College, Bhakkar)  
-🎯 Future: **BS Data Science @ Air University Islamabad**
+🎯 Future: **BSAI @ UCP Lahore**
 
 ---
 
